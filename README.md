@@ -31,7 +31,7 @@ I'm building a strong foundation in Java, OOP, and data structures, and I learn 
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilzhandev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:251581@astanait.edu.kz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilzhandev6@gmail.com)
 
 ---
 💡 *Open to internships and junior Java roles in Astana or remote.*
