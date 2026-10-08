@@ -1,3 +1,54 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="AdilzhanDev" width="100%">
-</p>
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+    </pattern>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3"
+                    flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="240" rx="18" fill="#F6F8FA"/>
+  <rect x="20" y="20" width="860" height="200"
+        rx="14" fill="url(#grid)"/>
+
+  <!-- Username -->
+  <text x="450" y="95"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="54"
+        font-weight="700"
+        letter-spacing="4"
+        fill="#111827"
+        filter="url(#shadow)">
+    ADILZHANDEV
+  </text>
+
+  <!-- Role -->
+  <text x="450" y="138"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="22"
+        font-weight="600"
+        fill="#2563EB">
+    Aspiring Java Backend Developer
+  </text>
+
+  <!-- University -->
+  <text x="450" y="172"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="16"
+        fill="#6B7280">
+    Software Engineering Student at Astana IT University
+  </text>
+
+  <!-- Decorative lines -->
+  <line x1="110" y1="190" x2="320" y2="190"
+        stroke="#D1D5DB" stroke-width="2"/>
+  <line x1="580" y1="190" x2="790" y2="190"
+        stroke="#D1D5DB" stroke-width="2"/>
+</svg>
