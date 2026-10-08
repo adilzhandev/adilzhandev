@@ -1,5 +1,7 @@
 # Hi, I'm Adilzhan 👋
-
+<p align="center">
+  <img src="./assets/header.svg" alt="AdilzhanDev Banner" width="100%">
+</p>
 **Aspiring Java Backend Developer** · Software Engineering student at Astana IT University
 
 I'm building a strong foundation in Java, OOP, and data structures, and I learn by building projects. Everything I study ends up here.
