@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="AdilzhanDev Banner" width="100%">
-</p>
 # Hi, I'm Adilzhan 👋
 **Aspiring Java Backend Developer** · Software Engineering student at Astana IT University
 
 I'm building a strong foundation in Java, OOP, and data structures, and I learn by building projects. Everything I study ends up here.
+<p align="center">
+  <img src="./assets/header.svg" alt="AdilzhanDev Banner" width="100%">
+</p>
 
 ## 🎯 Current Focus
 - Core Java and OOP principles
