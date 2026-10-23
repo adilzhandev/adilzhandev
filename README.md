@@ -39,4 +39,4 @@ I'm building a strong foundation in Java, OOP, and data structures, and I learn 
 💡 *Open to internships and junior Java roles in Astana or remote.*
 
 
-[📂 View All Repositories](https://github.com/adilzhandev?tab=repositories&utm_source=chatgpt.com)
+[📂 View All Repositories](https://github.com/adilzhandev?tab=repositories)
